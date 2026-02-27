@@ -267,7 +267,7 @@ footer{
     <div class="card">
       <h3>Cómo votar</h3>
       <video controls poster="miniatura2.jpg" style="width:100%; height:250px; border-radius:10px; border:2px solid var(--dorado); object-fit: cover;">
-        <source src="video_votar2.mp4" type="video/mp4">
+        <source src="video_postularse2" type="video/mp4">
         Tu navegador no soporta videos HTML5.
       </video>
     </div>
