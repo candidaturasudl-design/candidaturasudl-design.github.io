@@ -206,7 +206,7 @@ footer{
 
 <div id="loader">
   <img src="Logo yei copia.jpg">
-  <p>Cargando proyecto…</p>
+  <p>Cargando proyecto… YEI</p>
 </div>
 
 <div id="menu-btn">☰</div>
@@ -229,10 +229,11 @@ footer{
 
   <div class="menu-title">📜 Legal</div>
   <div class="submenu">
-    <a href="Estatudos internos Observatorio estudiantil.pdf">Reglamento Portavoces UDL Salamanca</a>
     <a href="reglamento_interno.pdf">Reglamento UDL</a>
   </div>
 </div>
+
+
 
 <header class="fade" id="inicio">
 <img src="Logo yei copia.jpg">
@@ -240,36 +241,45 @@ footer{
 <p>Democracia, justicia y participación universitaria</p>
 
 <div id="cta">
-<a href="https://script.google.com/macros/s/AKfycbynmP2bFPG83meOITVr2KRJHIlZM6vMM1zigAJHSr0TlRBSkKom5f6hN0llzpwk_9z6/exec">POSTÚLATE COMO JUEZ PARA LAS PROXIMAS ACTIVIDADES. </a>
+<a href="https://script.google.com/macros/s/AKfycbynmP2bFPG83meOITVr2KRJHIlZM6vMM1zigAJHSr0TlRBSkKom5f6hN0llzpwk_9z6/exec">POSTÚLATE COMO JUEZ PARA LAS SIGUIENTES ACTIVIDADES</a>
 </div>
 </header>
 
 <section class="fade">
 <h2>📌 ¿Qué es YEI?</h2>
 <div class="card">
-<p>Proyecto de participación estudiantil enfocado en democracia, cultura cívica y prevención del ciberbullying.</p>
+<p>Actividad de participación estudiantil enfocado en democracia, cultura cívica y prevención del ciberbullying.</p>
 </div>
 </section>
 
 <section class="fade">
-<h2>🎥 Videos informativos</h2>
-<div class="grid">
-<div class="card">
-<h3>Cómo postularse</h3>
-<iframe src="https://www.youtube.com/embed/TU_VIDEO_1"></iframe>
-</div>
-<div class="card">
-<h3>Cómo votar</h3>
-<iframe src="https://www.youtube.com/embed/TU_VIDEO_2"></iframe>
-</div>
-</div>
+  <h2>🎥 Videos informativos</h2>
+  <div class="grid">
+    
+    <div class="card">
+      <h3>Cómo postularse</h3>
+      <video controls poster="miniatura1.jpg" style="width:100%; height:250px; border-radius:10px; border:2px solid var(--dorado); object-fit: cover;">
+        <source src="video_postularse1.mp4" type="video/mp4">
+        Tu navegador no soporta videos HTML5.
+      </video>
+    </div>
+
+    <div class="card">
+      <h3>Cómo votar</h3>
+      <video controls poster="miniatura2.jpg" style="width:100%; height:250px; border-radius:10px; border:2px solid var(--dorado); object-fit: cover;">
+        <source src="video_votar2.mp4" type="video/mp4">
+        Tu navegador no soporta videos HTML5.
+      </video>
+    </div>
+
+  </div>
 </section>
 
 <div class="paneles-legales" id="panelesLegales">
   <div class="panel-item">
-    <button class="panel-btn">📜 Estatutos</button>
+    <button class="panel-btn">📜 Reglamento P</button>
     <div class="panel-content">
-      <a href="Estatudos internos Observatorio estudiantil.pdf">Abrir archivo PDF</a>
+      <a href="Proximamente Portavoces UDL.pdf">Abrir archivo PDF</a>
     </div>
   </div>
 
