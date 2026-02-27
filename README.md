@@ -240,7 +240,7 @@ footer{
 <p>Democracia, justicia y participación universitaria</p>
 
 <div id="cta">
-<a href="https://script.google.com/macros/s/AKfycbynmP2bFPG83meOITVr2KRJHIlZM6vMM1zigAJHSr0TlRBSkKom5f6hN0llzpwk_9z6/exec">POSTÚLATE COMO JUEZ / OBSERVADOR ESTUDIANTIL</a>
+<a href="https://script.google.com/macros/s/AKfycbynmP2bFPG83meOITVr2KRJHIlZM6vMM1zigAJHSr0TlRBSkKom5f6hN0llzpwk_9z6/exec">POSTÚLATE COMO JUEZ PARA LAS PROXIMAS ACTIVIDADES. </a>
 </div>
 </header>
 
