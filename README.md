@@ -229,8 +229,7 @@ footer{
 
   <div class="menu-title">📜 Legal</div>
   <div class="submenu">
-    <a href="Estatudos internos Observatorio estudiantil.pdf">Estatutos</a>
-    <a href="reglamento_interno.pdf">Reglamento Interno</a>
+    <a href="Estatudos internos Observatorio estudiantil.pdf">Reglamento Portavoces UDL Salamanca</a>
     <a href="reglamento_interno.pdf">Reglamento UDL</a>
   </div>
 </div>
