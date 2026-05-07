@@ -290,7 +290,7 @@ footer{
     <div class="card">
       <h3>MIRA AQUÍ EL RESUMEN DEL DIA 2 </h3>
       <video controls poster="miniatura2.jpg" style="width:100%; height:250px; border-radius:10px; border:2px solid var(--dorado); object-fit: cover;">
-        <source src="2.mp4" type="video/mp4">
+        <source src="Yei dia 2 video.mp4" type="video/mp4">
         Tu navegador no soporta videos HTML5.
       </video>
     </div>
