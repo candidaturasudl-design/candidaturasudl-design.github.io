@@ -219,7 +219,7 @@ footer{
     <a href="https://linktr.ee/candidaturasudl">Todas</a>
     <a href="https://linktw.in/pDbTVK">Instagram</a>
     <a href="https://linktw.in/UWQjtk">TikTok</a>
-    <a href="https://linktw.in/tnTdJZ">Facebook</a>
+    <a href="https://linktw.in/LNyuef">Facebook</a>
     <a href="https://wa.me/524641344022">Contacto</a>
   </div>
 
@@ -340,7 +340,7 @@ footer{
 <div class="social-icons">
 <a href="https://linktw.in/pDbTVK"><i class="fab fa-instagram"></i></a>
 <a href="https://linktw.in/UWQjtk"><i class="fab fa-tiktok"></i></a>
-<a href="https://linktw.in/tnTdJZ"><i class="fab fa-facebook"></i></a>
+<a href="https://linktw.in/LNyuef"><i class="fab fa-facebook"></i></a>
 <a href="https://wa.me/524641344022"><i class="fab fa-whatsapp"></i></a>
 </div>
 </div>
