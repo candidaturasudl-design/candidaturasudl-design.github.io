@@ -48,15 +48,16 @@ body{
 .paneles-legales{
   display:flex;
   flex-direction:column;
-  gap:20px;
+  gap:10px;
 }
 
 .panel-item{
   border:2px solid var(--dorado);
   border-radius:15px;
   overflow:hidden;
-  background:rgba(0,0,0,.4);
+  background:0 0 20px rgba(212,175,55,.2);
   box-shadow:0 0 20px rgba(212,175,55,.2);
+  margin-top: 20px;
 }
 
 .panel-btn{
@@ -231,6 +232,28 @@ footer{
   <div class="submenu">
     <a href="reglamento_interno.pdf">Reglamento UDL</a>
   </div>
+
+  <div class="menu-title">Conoce a los jueces </div>
+  <div class="submenu">
+    <a href="Cartas descriptivas ganadores.pdf">Información de los jueces</a>
+     </div>
+
+
+  <div class="menu-title">Funciones de los Jueces</div>
+  <div class="submenu">
+    <a href="Funciones de los jueces.jpeg">Funciones de los jueces</a>
+  </div>
+
+  <div class=">menu-title"></div>
+  <div class="submenu">
+    <a href="rúbrica evaluativa.pdf">Rúbricass</a>
+  </div>
+
+  <div class="menu-title">Conoce las rúbricas de evaluación para la actividad YEI</div>
+  <div class="submenu">
+    <a href="rúbrica evaluativa.pdf">Rúbricass</a>
+  </div>
+  
 </div>
 
 
@@ -241,7 +264,7 @@ footer{
 <p>Democracia, justicia y participación universitaria</p>
 
 <div id="cta">
-<a href="https://script.google.com/macros/s/AKfycbynmP2bFPG83meOITVr2KRJHIlZM6vMM1zigAJHSr0TlRBSkKom5f6hN0llzpwk_9z6/exec">POSTÚLATE COMO JUEZ PARA LAS SIGUIENTES ACTIVIDADES</a>
+<a href="https://script.google.com/macros/s/AKfycbwpIKLRB4EgmpkSnKRxf099FoczBlch3_Aqa3RUKp-dBsFivvLoI1GP8GLlwAFzksIiRA/exec?view=grafica">MIRA AQUÍ LOS RESULTADOS DE LAS VOTACIONES</a>
 </div>
 </header>
 
@@ -253,33 +276,53 @@ footer{
 </section>
 
 <section class="fade">
-  <h2>🎥 Videos informativos</h2>
+  <h2>🎥 Videos informativos (Los videos en mayor calidad los encuentras en nuestras redes al final de la página)</h2>
   <div class="grid">
     
     <div class="card">
-      <h3>Cómo postularse</h3>
+      <h3>MIRA AQUÍ EL RESUMEN DEL DIA 1</h3>
       <video controls poster="miniatura1.jpg" style="width:100%; height:250px; border-radius:10px; border:2px solid var(--dorado); object-fit: cover;">
-        <source src="video_postularse1.mp4" type="video/mp4">
+        <source src="YEI resumen DIA 1.mp4" type="video/mp4">
         Tu navegador no soporta videos HTML5.
       </video>
     </div>
 
     <div class="card">
-      <h3>+Info bro brr</h3>
+      <h3>MIRA AQUÍ EL RESUMEN DEL DIA 2 </h3>
       <video controls poster="miniatura2.jpg" style="width:100%; height:250px; border-radius:10px; border:2px solid var(--dorado); object-fit: cover;">
-        <source src="video_postularse2" type="video/mp4">
+        <source src="2.mp4" type="video/mp4">
+        Tu navegador no soporta videos HTML5.
+      </video>
+    </div>
+
+     <div class="card">
+      <h3>MIRA AQUÍ EL RESUMEN DEL DIA 3 </h3>
+      <video controls poster="miniatura2.jpg" style="width:100%; height:250px; border-radius:10px; border:2px solid var(--dorado); object-fit: cover;">
+        <source src="3.mp4" type="video/mp4">
         Tu navegador no soporta videos HTML5.
       </video>
     </div>
 
   </div>
+
+<section class="fade">
+<h2>📌 DIVIERTETE JUGANDO Y APRENDIENDO SOBRE LA REFORMA Y EL CIBERBULLYING</h2>
+<div class="card">
+<a href="https://play.blooket.com/play?hwId=69fd12f3cde62d43110220d2">INGRESA AL JUEGO Y COMPITE POR UN PUESTO</a>
+</div>
 </section>
+
+</section>
+
+
 
 <div class="paneles-legales" id="panelesLegales">
   <div class="panel-item">
-    <button class="panel-btn">📜 Reglamento P</button>
+    <button class="panel-btn">📜 Conoce a los jueces seleccionados </button>
     <div class="panel-content">
-      <a href="Proximamente Portavoces UDL.pdf">Abrir archivo PDF</a>
+      <a href="Funciones de los jueces.jpeg">Conoce las funciones de los jueces</a>
+      <div class="panel-content">
+      <a href="Cartas descriptivas ganadores.pdf">Conoce a los jueces</a>
     </div>
   </div>
 
